@@ -1,0 +1,26 @@
+What this project is about:
+
+As avid Linux and AMD fan I was thoroughly disappointed to learn that multi-monitor setups are constantly 
+breaking when using the amdgpu driver. Since I want to use my all AMD Workstation as the power user (and lifter)
+I am, I do attempt to fix the kernel. Since I'm just starting out as developer and have just a tiny bit of experience
+with the C programming language this is a huge and enormous task. But as we all know:
+
+You grow with the challenges you face.
+
+
+Some reading material to get started:
+
+=> How to setup your machine for Kernel Development (for beginner)
+https://blog.usejournal.com/how-to-become-a-linux-kernel-developer-20774c72ab07
+
+=> TLDP: Linux Kernel Module Programming Guide
+https://tldp.org/LDP/lkmpg/2.6/html/index.html
+
+=> DRM Internals (Kernel Documentation)
+https://www.kernel.org/doc/html/latest/gpu/drm-internals.html
+
+=> Linux GPU Driver Dev Guide (Kernel Documentation)
+https://www.kernel.org/doc/html/latest/gpu/index.html
+
+=> O'Reilly Kernel Debugging Techniques
+https://www.oreilly.com/library/view/linux-device-drivers/0596005903/ch04.html
