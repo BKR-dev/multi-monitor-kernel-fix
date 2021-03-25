@@ -30,4 +30,10 @@ https://pwning.systems/posts/an-introduction-to-kernel-exploitation-part1/
 
 Tips:
 
-==> setup a docker container for testing kernel object
+==> setup a linux vm for kernel Development
+
+=>  Install HyperV on Windows10:
+https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v
+
+=> Enhanced Session Ubuntu 20.04 LTS:
+https://francescotonini.medium.com/how-to-install-ubuntu-20-04-on-hyper-v-with-enhanced-session-b20a269a5fa7
